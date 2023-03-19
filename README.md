@@ -1,21 +1,15 @@
-### Hi there 👋
+![Miles complete github gif](https://user-images.githubusercontent.com/90070112/226153716-646c2d93-8a75-49be-b1b4-861391f05535.gif)
+------------------------------------------------------------------------------------------------------------------------------------
 
+# About me
 
+```yaml
+about_me = { name: 'Miles Baffour',
+             from: 'Arlington, VA',
+             education: "Data Science student at Claremont Mckenna College",
+             career_interests: ["Software Engineering", "Data Science"],
+             currently_learning: "I'm currently learning how to build common Machine Learning Algorithms with Pandas, Numpy, and Scikit-learn",
+             hobbies: ["Basketball", "Pool", "Chess"]
+}
+```
 
-![Recording 2023-03-17 at 02 30 08](https://user-images.githubusercontent.com/90070112/225866482-7b46d0fd-ddd6-44c2-be08-314a0f26d0fd.gif)
-
-
-<!--
-**milesba4/milesba4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
