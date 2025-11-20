@@ -1,7 +1,5 @@
-![Miles complete github gif](https://user-images.githubusercontent.com/90070112/226153716-646c2d93-8a75-49be-b1b4-861391f05535.gif)
+#### Hi
 ------------------------------------------------------------------------------------------------------------------------------------
-<img href='https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png'/>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/miles-baffour-1688131b2/">
   <img alt="LinkdeIN" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
